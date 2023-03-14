@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
     width: 100,
   },
   subtitleStyle: {
+    flexShrink: 1,
     fontSize: 13,
     marginHorizontal: 10,
   },
